@@ -7,4 +7,5 @@ https://thecodebuzz.com/consuming-wcf-web-services-in-net-core-best-practices/
 # Using ChannelFactory in .Net Core
 https://thecodebuzz.com/consume-wcf-web-services-in-net-core-using-channelfactory/
 
-WCF Features supported in .Net Core
+# WCF Features supported in .Net Core
+https://github.com/dotnet/wcf/blob/master/release-notes/SupportedFeatures-v2.1.0.md
