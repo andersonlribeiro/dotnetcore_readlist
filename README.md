@@ -9,3 +9,6 @@ https://thecodebuzz.com/consume-wcf-web-services-in-net-core-using-channelfactor
 
 # WCF Features supported in .Net Core
 https://github.com/dotnet/wcf/blob/master/release-notes/SupportedFeatures-v2.1.0.md
+
+# SOAP Webservices with .Net Core
+https://medium.com/grensesnittet/integrating-with-soap-web-services-in-net-core-adebfad173fb
