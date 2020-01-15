@@ -16,3 +16,6 @@ https://medium.com/grensesnittet/integrating-with-soap-web-services-in-net-core-
 # Common mistakes using Dates and DateTime in C#
 https://blog.submain.com/4-common-datetime-mistakes-c-avoid/
 
+## ASP.NET Core Web API Best Practices Guide
+https://www.codetd.com/en/article/8273415
+
