@@ -22,3 +22,6 @@ https://www.codetd.com/en/article/8273415
 ## ASP.NET CORE Result types
 http://hamidmosalla.com/2017/03/29/asp-net-core-action-results-explained/
 
+## ASP.NET Entity Framework in separated project
+https://medium.com/oppr/net-core-using-entity-framework-core-in-a-separate-project-e8636f9dc9e5
+
