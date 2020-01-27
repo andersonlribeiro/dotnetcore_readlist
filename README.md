@@ -18,6 +18,7 @@ https://blog.submain.com/4-common-datetime-mistakes-c-avoid/
 
 ## ASP.NET Core Web API Best Practices Guide
 https://www.codetd.com/en/article/8273415
+https://code-maze.com/aspnetcore-webapi-best-practices
 
 ## ASP.NET CORE Result types
 http://hamidmosalla.com/2017/03/29/asp-net-core-action-results-explained/
